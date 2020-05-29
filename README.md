@@ -1,2 +1,2 @@
 # GitRemote
-Ejemplo de repositorio, creado en la deepweb y clonado localmente
+Ejemplo de repositorio, creado en la web y clonado localmente
